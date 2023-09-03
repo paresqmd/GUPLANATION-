@@ -7,4 +7,6 @@ Algoritma DecisionTreeClassifier mengolah serangkaian data (data sheet) yang dig
 # TAMPILAN GUPLANATION #
 ![Halaman Login](https://github.com/paresqmd/GUPLANATION-/assets/143917694/e6f57942-bdac-4050-88db-6c0cc72328d7)
 
+![Halaman katalog](https://github.com/paresqmd/GUPLANATION-/assets/143917694/7610f4c0-fb54-4dbb-84f4-0b7ebfde2443)
+
 ![Halaman katalog](https://github.com/paresqmd/GUPLANATION-/assets/143917694/2121f4e6-79b3-4165-8b52-93419581402e)
