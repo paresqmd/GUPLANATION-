@@ -3,3 +3,6 @@ GUPLANATION (Gui Based Plant Recommendation System) adalah sistem berbentuk apli
 
 # MEKANISME KERJA #
 Algoritma DecisionTreeClassifier mengolah serangkaian data (data sheet) yang digunakan sebagai testing program atau uji serta sebagai sumber pembelajaran algoritma sehingga dapat membantu memberikan rekomendasi/keputusan. Data yang digunakan berukuran 2200 x 8 (2200 baris dan 8 kolom) yang memuat nama tanaman pada kolom terakhir serta karakteristik lahan/tanahnya pada 7 kolom lainnya yaitu kadar nitrogen (%), kadar fosfor (%), kadar kalium (%), temperatur, kelembaban relatif, pH tanah, serta curah hujan. Selain itu, dibutuhkan library numpy serta pandas dalam python untuk bagian proses serta manipulasi data. 
+
+# TAMPILAN GUPLANATION #
+![Halaman Login](https://github.com/paresqmd/GUPLANATION-/assets/143917694/e6f57942-bdac-4050-88db-6c0cc72328d7)
