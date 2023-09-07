@@ -20,6 +20,6 @@ Algoritma DecisionTreeClassifier mengolah serangkaian data (data sheet) yang dig
 
 # Technology #
 1. Python
-2. PyQt5
+2. tkinter
 3. Scikit-Learn
 4. Pandas, Numpy
